@@ -2,7 +2,9 @@
 - 👀 I’m interested in building products that help people make cool stuff
 - 🌱 I’m currently building the next de-facto platform for working with numbers at Arithmix
 - 💞️ I’m always looking to colloborate with people who enjoy making tools for others 
-- 📫 How to reach me at matthew.m.gapp@gmail.com
+- 📫 You can reach me at matthew.m.gapp@gmail.com
+
+https://www.matthewgapp.com
 
 <!---
 matthewgapp/matthewgapp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
