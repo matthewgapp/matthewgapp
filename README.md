@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matthewgapp
-- 👀 I’m interested in building products that help companies hire better
-- 🌱 I’m currently learning how to build a marketplace
-- 💞️ I’m looking to collaborate on the frontier in hiring
+- 👀 I’m interested in building products that help people make cool stuff
+- 🌱 I’m currently building the next de-facto platform for working with numbers at Arithmix
+- 💞️ I’m always looking to colloborate with people who enjoy making tools for others 
 - 📫 How to reach me at matthew.m.gapp@gmail.com
 
 <!---
